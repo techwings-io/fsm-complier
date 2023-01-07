@@ -9,7 +9,7 @@ Initial: Locked
     Coin    FirstCoin
   }
 
-  Alarming : Base   >alarmOn    <alarmOff> {
+  Alarming : Base   >alarmOn    <alarmOff {
     ---
   }
 
