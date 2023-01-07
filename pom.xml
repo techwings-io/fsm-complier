@@ -12,4 +12,15 @@
         <maven.compiler.target>19</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/de.bechte.junit/junit-hierarchicalcontextrunner -->
+        <dependency>
+            <groupId>de.bechte.junit</groupId>
+            <artifactId>junit-hierarchicalcontextrunner</artifactId>
+            <version>4.12.2</version>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+
 </project>
