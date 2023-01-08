@@ -4,10 +4,11 @@ import de.bechte.junit.runners.context.HierarchicalContextRunner;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 
+import static io.techwings.compilers.fsm.Utilities.compressWhiteSpace;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
-import static io.techwings.compilers.fsm.Utilities.compressWhiteSpace;
 
+@RunWith(HierarchicalContextRunner.class)
 public class UtilitiesTest {
 
   public class CompressWhiteSpace {
