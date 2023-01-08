@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="fsm-complier" target="19" />
+      <module name="fsm-complier" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
