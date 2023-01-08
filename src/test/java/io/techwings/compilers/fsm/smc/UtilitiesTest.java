@@ -8,7 +8,7 @@ import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 import static io.techwings.compilers.fsm.Utilities.compressWhiteSpace;
 
-@RunWith(HierarchicalContextRunner.class)
+//@RunWith(HierarchicalContextRunner.class)
 public class UtilitiesTest {
 
   public class CompressWhiteSpace {
